@@ -1,5 +1,5 @@
 let expect = require('chai').expect;
-let makeList = require('../02_ListAddLeftRightClear');
+let makeList = require('../02_ListAddLeftRightClear').makeList;
 
 describe('Testing main functionality', function () {
     let myList = {};

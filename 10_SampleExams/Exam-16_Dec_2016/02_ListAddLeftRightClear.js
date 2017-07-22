@@ -15,4 +15,4 @@ function makeList() {
         }
     };
 }
-module.exports = makeList;
+module.exports = { makeList };
