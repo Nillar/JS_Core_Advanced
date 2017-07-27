@@ -54,8 +54,7 @@ function solve() {
             return super.toString() + `\nViews: ${this.views}`
         }
     }
-    return {
-        Post,
+    return {       Post,
         SocialMediaPost,
         BlogPost
     };
